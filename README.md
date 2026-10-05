@@ -1,4 +1,4 @@
-#Dart Fundamentals Projects
+# Dart Fundamentals Projects
 
 A collection of small Dart console applications built while learning and practicing Dart fundamentals.
 
